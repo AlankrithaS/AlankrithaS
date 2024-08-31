@@ -11,28 +11,29 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Shreyans Jain, Web Developer/Coder 💻,  Learner 👨‍💻 &  Guitarist 🎸🎵 from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently a Masters student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently working on a Next.js project.
   <br />
 </p>
 
 <!-- social handles -->
 <div align="center"> 
-<!-- youtube -->
-  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- Medium -->
+  <a href="https://medium.com/@shreyans.jain_45335" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shreyans-jain-9255351a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/shreyans_jain" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- GitHub -->
+  <a href="https://github.com/shreyyyyy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+
 
 <hr />
 <!-- skills -->
@@ -100,7 +101,7 @@
   <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyyyyy&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" />
         <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
       </picture>
@@ -108,7 +109,7 @@
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shreyyyyy&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
       </picture>
@@ -134,7 +135,7 @@
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shreyyyyy&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
     </picture>
@@ -149,15 +150,15 @@
 <!-- first row -->
 <div width="100%" align="center">
 <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+  <a align="right" href="https://github.com/shreyyyyy/Revolutionizing-Restaurant-Recommendations-using-neural-network" title="Modern Restaurant Recomendation">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="shrey's repository stats - Restaurant" />
     </picture>
   </a>
 <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
+  <a align="left" href="https://github.com/shreyyyyy/portfolio-using-nextjs-mern" title="MERN Portfolio">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
@@ -169,7 +170,7 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/modern-portfolio" title="Modern Portfolio">
+  <a align="left" href="https://github.com/shreyyyyy/Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit" title="Hospital Length of Stay">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=modern-portfolio&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=modern-portfolio&theme=graywhite&border_radius=10" />
