@@ -19,7 +19,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently working on a CI/CD Projects.
+  🧑‍💼 I’m currently working on CI/CD Projects.
   <br />
 </p>
 
