@@ -97,43 +97,56 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <!-- first row -->
-<div width="100%" align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/Shreyyyyy/Revolutionizing-Restaurant-Recommendations-using-neural-network" title="Restaurant Recommendation">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=react&border_color=2C8C83&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
-    </picture>
-  </a>
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/Shreyyyyy/Revolutionizing-Restaurant-Recommendations-using-neural-network" title="Restaurant Recommendation">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
+      </picture>
+    </a>
+    <p>Neural network-based restaurant recommendation system for personalized dining suggestions.</p>
+  </div>
+
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/Shreyyyyy/portfolio-using-nextjs-mern" title="Modern Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/Shreyyyyy/portfolio-using-nextjs-mern" title="Modern Portfolio">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
+      </picture>
+    </a>
+    <p>Personal portfolio website built using Next.js and MERN stack for showcasing projects.</p>
+  </div>
+
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/Shreyyyyy/Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit" title="Hospital Length of Stay">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=react&border_color=2C8C83&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
-    </picture>
-  </a>
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/Shreyyyyy/Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit" title="Hospital Length of Stay">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
+      </picture>
+    </a>
+    <p>Predicting hospital length of stay using XGBoost and Streamlit for better resource management.</p>
+  </div>
+
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/Shreyyyyy/Submarine-Danger-Prediction" title="Submarine Danger Prediction">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Submarine-Danger-Prediction&theme=react&border_color=2C8C83&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Submarine-Danger-Prediction&theme=graywhite&border_color=2C8C83&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Submarine-Danger-Prediction&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Submarine Danger Prediction" />
-    </picture>
-  </a>
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/Shreyyyyy/passco-sc" title="PASSCO SC">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - PASSCO SC" />
+      </picture>
+    </a>
+    <p>Service Center management system designed for government operations in India.</p>
+  </div>
+
 </div>
 
 <!-- spaces -->
