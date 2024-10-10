@@ -4,21 +4,22 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+shreyyyyy!;&center=true&size=30">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+Shreyyyyy!;&center=true&size=30&color=2C8C84">
+</a>
+
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Shreyans Jain, Web Developer/Coder 💻,  Learner 👨‍💻 &  Guitarist 🎸🎵 from India 🇮🇳.
+  Hi, I'm Shreyans Jain, Full Stack Developer/Coder 💻,  Learner 👨‍💻 &  Guitarist 🎸🎵 from India 🇮🇳.
   <br />
   <br />
   🎓 Currently a Masters student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently working on a Next.js project.
+  🧑‍💼 I’m currently working on a CI/CD Projects.
   <br />
 </p>
 
