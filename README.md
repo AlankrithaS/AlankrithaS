@@ -1,14 +1,8 @@
 <!-- profile view count -->
 <p align="center">
-  <img src="./myphoto.jpg" width="150" height="150">
+  <img src="./myphoto.jpg" width="100" height="100" style="border-radius: 50%;">
 </p>
 
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+S Alankrita!;&center=true&size=30&color=2C8C84" alt="Typing SVG">
-  </a>
-</h1>
 
 <br />
 <!-- about me -->
