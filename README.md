@@ -94,11 +94,13 @@
   </a>
   <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
 </div>
+
+
 <!-- repo 3 -->
 <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/connect-mentee&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
       <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
     </picture>
