@@ -1,10 +1,10 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=shreyyyyy">
+<img align="right" src="./myphoto.jpg">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+Shreyyyyy!;&center=true&size=30&color=2C8C84">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+S Alankrita!;&center=true&size=30&color=2C8C84">
 </a>
 
 </h1>
@@ -12,7 +12,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Shreyans Jain, Full Stack Developer/Coder 💻,  Learner 👨‍💻 &  Guitarist 🎸🎵 from India 🇮🇳.
+  Hi, I'm S Alankritha, Front-End Developer/UI/UX Designer 💻 & JavaScript Enthusiast!
   <br />
   <br />
   🎓 Currently a Masters student.
@@ -22,18 +22,6 @@
   🧑‍💼 I’m currently working on CI/CD Projects.
   <br />
 </p>
-
-<!-- social handles -->
-<div align="center"> 
-  <!-- Medium -->
-  <a href="https://medium.com/@shreyans.jain_45335" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shreyans-jain-9255351a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/shreyans_jain" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- GitHub -->
-  <a href="https://github.com/shreyyyyy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
 
 
 <hr />
@@ -101,50 +89,50 @@
 
   <!-- repo 1 -->
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/Revolutionizing-Restaurant-Recommendations-using-neural-network" title="Restaurant Recommendation">
+    <a href="https://github.com/AlankrithaS/CU-MyGate" title="CU MyGate">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Revolutionizing-Restaurant-Recommendations-using-neural-network&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github.com/AlankrithaS/CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
       </picture>
     </a>
-    <p>Neural network-based restaurant recommendation system for personalized dining suggestions.</p>
+    <p>University Mobile App revolutionizes the Visitor Authorization Platform, optimizing coordination mechanisms.</p>
   </div>
 
   <!-- repo 2 -->
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/portfolio-using-nextjs-mern" title="Modern Portfolio">
+    <a href="https://github.com/AlankrithaS/mentoring-app-expo" title="Connect Mentee">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
       </picture>
     </a>
-    <p>Personal portfolio website built using Next.js and MERN stack for showcasing projects.</p>
+    <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
   </div>
 
   <!-- repo 3 -->
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit" title="Hospital Length of Stay">
+    <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=Hospital-Length-of-Stay-Prediction-App-using-XGBoost-and-Streamlit&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github.com/AlankrithaS/discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
       </picture>
     </a>
-    <p>Predicting hospital length of stay using XGBoost and Streamlit for better resource management.</p>
+    <p>Discord bot using JDA monitors user activity, enforces rules with ban actions & offers slash commands.</p>
   </div>
 
   <!-- repo 4 -->
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/Shreyyyyy/passco-sc" title="PASSCO SC">
+    <a href="https://github.com/AlankrithaS/live_location_tracker" title="Geo Master">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyyyyy&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - PASSCO SC" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <img height="115" src="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - PASSCO SC" />
       </picture>
     </a>
-    <p>Service Center management system designed for government operations in India.</p>
+    <p>Developed a live location tracking web app,featuring real-time geolocation data storage & an intuitive WhatsApp-like interface.</p>
   </div>
 
 </div>
@@ -155,5 +143,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/Shreyyyyy?tab=repositories" title="Show Repositories" style="color:#2C8C83; font-weight:bold; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)'">🔎 Show More 🔍</a>
+  <a href="https://github.com/AlankrithaS" title="Show Repositories" style="color:#2C8C83; font-weight:bold; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)'">🔎 Show More 🔍</a>
 </h4>
