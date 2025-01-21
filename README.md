@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="./myphoto.jpg">
+<img align="right" src="./myphoto.jpg" width="150" height="150">
 
 <!-- introduction -->
 <h1 align="center">
@@ -48,22 +48,7 @@
 </p>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
-  </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
-</p>
-<hr />
+
 
 <!-- snake graph -->
 <div align="center">
@@ -80,7 +65,6 @@
 </div>
 
 <hr />
-
 <!-- repositories -->
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
@@ -91,8 +75,8 @@
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/AlankrithaS/CU-MyGate" title="CU MyGate">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=CU-MyGate&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" />
         <img height="115" src="gate.png" alt="alan's repository stats - Restaurant Recommendation" />
       </picture>
     </a>
@@ -103,8 +87,8 @@
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/AlankrithaS/mentoring-app-expo" title="Connect Mentee">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=mentoring-app-expo&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=mentoring-app-expo&theme=graywhite&border_color=2C8C83&border_radius=10" />
         <img height="115" src="mentee.png" alt="alan's repository stats - Modern Portfolio" />
       </picture>
     </a>
@@ -115,8 +99,8 @@
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
         <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
       </picture>
     </a>
@@ -127,8 +111,8 @@
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/AlankrithaS/live_location_tracker" title="Geo Master">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=live_location_tracker&theme=react&border_color=2C8C83&border_radius=10" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=live_location_tracker&theme=graywhite&border_color=2C8C83&border_radius=10" />
         <img height="115" src="whatsapp.png" alt="alan's repository stats - PASSCO SC" />
       </picture>
     </a>
