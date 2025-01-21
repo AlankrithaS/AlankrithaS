@@ -93,7 +93,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=react&border_color=2C8C83&border_radius=10" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github.com/AlankrithaS/CU-MyGate&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Restaurant Recommendation" />
+        <img height="115" src="gate.png" alt="alan's repository stats - Restaurant Recommendation" />
       </picture>
     </a>
     <p>University Mobile App revolutionizes the Visitor Authorization Platform, optimizing coordination mechanisms.</p>
@@ -105,7 +105,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=react&border_color=2C8C83&border_radius=10" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github.com/AlankrithaS/mentoring-app-expo&repo=portfolio-using-nextjs-mern&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Modern Portfolio" />
+        <img height="115" src="mentee.png" alt="alan's repository stats - Modern Portfolio" />
       </picture>
     </a>
     <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
@@ -117,7 +117,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github.com/AlankrithaS/discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - Hospital Length of Stay" />
+        <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
       </picture>
     </a>
     <p>Discord bot using JDA monitors user activity, enforces rules with ban actions & offers slash commands.</p>
@@ -129,7 +129,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=react&border_color=2C8C83&border_radius=10" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="https://github.com/AlankrithaS/live_location_tracker&repo=passco-sc&theme=graywhite&border_color=2C8C83&border_radius=10" alt="shrey's repository stats - PASSCO SC" />
+        <img height="115" src="whatsapp.png" alt="alan's repository stats - PASSCO SC" />
       </picture>
     </a>
     <p>Developed a live location tracking web app,featuring real-time geolocation data storage & an intuitive WhatsApp-like interface.</p>
