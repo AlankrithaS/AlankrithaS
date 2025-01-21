@@ -1,12 +1,13 @@
 <!-- profile view count -->
-<img align="right" src="./myphoto.jpg" width="150" height="150">
+<p align="center">
+  <img src="./myphoto.jpg" width="150" height="150">
+</p>
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+S Alankrita!;&center=true&size=30&color=2C8C84">
-</a>
-
+  </a>
 </h1>
 
 <br />
@@ -20,7 +21,6 @@
   💻 I love to learn new technologies and frameworks.
   <br />
   🧑‍💼 I’m currently working on CI/CD Projects.
-  <br />
 </p>
 
 
@@ -94,18 +94,17 @@
     </a>
     <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
   </div>
-
-  <!-- repo 3 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
-      </picture>
-    </a>
-    <p>Discord bot using JDA monitors user activity, enforces rules with ban actions & offers slash commands.</p>
-  </div>
+<!-- repo 3 -->
+<div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
+      <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
+    </picture>
+  </a>
+  <p>Discord bot using JDA monitors user activity, enforces rules with ban actions & offers slash commands.</p>
+</div>
 
   <!-- repo 4 -->
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
