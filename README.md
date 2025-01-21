@@ -6,7 +6,7 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+S Alankrita!;&center=true&size=30&color=2C8C84">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup+Stalkers!+😎;+Myself+S Alankrita!;&center=true&size=30&color=2C8C84" alt="Typing SVG">
   </a>
 </h1>
 
@@ -84,21 +84,21 @@
   </div>
 
   <!-- repo 2 -->
-  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/AlankrithaS/mentoring-app-expo" title="Connect Mentee">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=mentoring-app-expo&theme=react&border_color=2C8C83&border_radius=10" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=mentoring-app-expo&theme=graywhite&border_color=2C8C83&border_radius=10" />
-        <img height="115" src="mentee.png" alt="alan's repository stats - Modern Portfolio" />
-      </picture>
-    </a>
-    <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
-  </div>
+<div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/AlankrithaS/connect-mentee" title="Connect Mentee">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=connect-mentee&theme=react&border_color=2C8C83&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=connect-mentee&theme=graywhite&border_color=2C8C83&border_radius=10" />
+      <img height="115" src="mentee.png" alt="alan's repository stats - Modern Portfolio" />
+    </picture>
+  </a>
+  <p>University mobile app revolutionizes mentee-mentor allocation, optimizing coordination.</p>
+</div>
 <!-- repo 3 -->
 <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/AlankrithaS/discord-bot-jda" title="Capture the Flag">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlankrithaS/connect-mentee&repo=discord-bot-jda&theme=react&border_color=2C8C83&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AlankrithaS&repo=discord-bot-jda&theme=graywhite&border_color=2C8C83&border_radius=10" />
       <img height="115" src="image.png" alt="alan's repository stats - Hospital Length of Stay" />
     </picture>
