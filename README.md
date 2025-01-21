@@ -1,7 +1,8 @@
 <!-- profile view count -->
 <p align="center">
-  <img src="./myphoto.jpg" width="100" height="100" style="border-radius: 50%;">
+  <img src="./myphoto.jpg" width="100" height="100" style="border-radius: 50%; border: 2px solid #000;">
 </p>
+
 
 
 <br />
