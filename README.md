@@ -8,14 +8,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm S Alankritha, Front-End Developer/UI/UX Designer 💻 & JavaScript Enthusiast!
+  Hi, I'm S Alankritha, Azzure Data Engineer!
   <br />
   <br />
   🎓 Currently a Masters student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently working on CI/CD Projects.
+  🧑‍💼 I’m currently working on Real-time data streaming pipelines and CI/CD pipelines in Azure DevOps.
 </p>
 
 
